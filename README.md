@@ -15,7 +15,8 @@ as real or fake.
 - EfficientNetV2-S
 
 ## Dataset
-The dataset is not included in this repository.
+This project uses the CIFake dataset for fake image detection.
+The dataset is not included in this repository due to license restrictions.
 
 ## Tools
 - Python
